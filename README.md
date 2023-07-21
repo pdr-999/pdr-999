@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+DevOps, Frontend, and optimization is fun.
+
+Following these roadmaps:
+- 🚶 https://roadmap.sh/docker
+- 🚶 https://roadmap.sh/react
+- 🚶 https://roadmap.sh/devops
+- 🚶 https://roadmap.sh/frontend
+- 🚶 https://roadmap.sh/javascript
+- 🚶 https://roadmap.sh/typescript
+- 🚶 https://roadmap.sh/design-system
+- 🚶 https://roadmap.sh/software-architect
+
+🔭 Long road ahead.
 <!--
 **pdr-999/pdr-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
