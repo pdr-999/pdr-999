@@ -11,6 +11,7 @@ Following these roadmaps:
 - 🚶 https://roadmap.sh/typescript
 - 🚶 https://roadmap.sh/design-system
 - 🚶 https://roadmap.sh/software-architect
+- 🚶 https://roadmap.sh/best-practices/frontend-performance
 
 🔭 Long road ahead.
 <!--
